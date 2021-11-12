@@ -1,0 +1,2 @@
+# anotherone
+static web page
